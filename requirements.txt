@@ -1,0 +1,14 @@
+lxml
+flask
+imdbpy
+gevent
+pymongo
+requests
+gunicorn
+ratelimit
+flask_socketio
+beautifulsoup4
+gevent-websocket
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

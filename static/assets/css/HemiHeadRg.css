@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'HemiHeadRg';
+	src: url(../../assets/fonts/HemiHeadRg-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/HemiHeadRg-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
